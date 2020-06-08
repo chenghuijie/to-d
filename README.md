@@ -1,2 +1,2 @@
-# to-d
-npm: <https://www.npmjs.com/package/to-d>
+# try-d
+npm: <https://www.npmjs.com/package/try-d>
