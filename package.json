@@ -12,6 +12,9 @@
     "url": "https://github.com/chenghuijie/try-d/issues"
   },
   "main": "index.js",
-  "dependencies": {},
-  "version": "2.0.0"
+  "dependencies": {
+    "try-a": "2",
+    "try-b": "2"
+  },
+  "version": "2.0.1"
 }
